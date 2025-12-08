@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 # README.md
-![image](https://github.com/user-attachments/assets/f132c1c9-2f59-47d0-9938-8fffec39c103)
 Hi, my name is Wajid Yousuf I like to write code and figure out ways to break it. I solve labs and challenges on HackTheBox, TryHackMe and other platforms(mostly blue team).
 I also make Blue-Team videos demonstrating various tools: (https://youtu.be/P8n0-RKF6_0)
 ### Some of my Write-Ups
