@@ -3,12 +3,12 @@
 # README.md
 SOC Analyst focused on log analysis, log correlation, detection engineering and attack-chain reconstruction. Hands-on experience in investigating reconnaissance, credential abuse, file upload attacks, Sysmon and web server logs using Splunk and Linux-based simulated enterprise environments. Strong understanding of attack chains, MITRE ATT&CK mapping, and focused on improving SOC alerts through behavioral detection beyond signature-based alerts.
 
-Publishing blue-team investigation tools on Youtube: <a href="https://www.youtube.com/@m3erHacks">
+Publishing blue-team investigative walkthroughs and instructions on Youtube: <a href="https://www.youtube.com/@m3erHacks">
   <img alt="YouTube" src="https://custom-icon-badges.demolab.com/badge/YouTube-red.svg?logo=youtube&logoColor=white" />
 </a>
 
 
-Documenting investigations through technical writeups one Medium, some writeups below    
+Documenting investigations through technical writeups on Medium, some writeups below    
 ### Some of my Write-Ups
 * [The Greenholt Phish](https://medium.com/@wajidmir1111/the-greenholt-phish-thm-soc-l1-4e8512ed911a)
 * [Disgruntled](https://medium.com/@wajidmir1111/disgruntled-thm-soc-l1-7d68b8627b55)
