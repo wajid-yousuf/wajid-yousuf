@@ -1,5 +1,21 @@
-## Hi there 👋
+<div align="center">
+  
+```
 
+ ▄▄▄  ▄▄▄   ▄▄▄▄▄     ▄▄▄▄▄    ▄▄▄▄▄▄   
+ ███  ███  █▀▀▀▀██▄  █▀▀▀▀██▄  ██▀▀▀▀██ 
+ ████████       ▄██       ▄██  ██    ██ 
+ ██ ██ ██    █████     █████   ███████  
+ ██ ▀▀ ██       ▀██       ▀██  ██  ▀██▄ 
+ ██    ██  █▄▄▄▄██▀  █▄▄▄▄██▀  ██    ██ 
+ ▀▀    ▀▀   ▀▀▀▀▀     ▀▀▀▀▀    ▀▀    ▀▀▀
+    Splunk | Threat Detection | Incident Response
+ ```
+                                     
+</div>
+   
+                                         
+                                       
 # README.md
 SOC Analyst focused on log analysis, log correlation, detection engineering and attack-chain reconstruction. Hands-on experience in investigating reconnaissance, credential abuse, file upload attacks, Sysmon and web server logs using Splunk and Linux-based simulated enterprise environments. Strong understanding of attack chains, MITRE ATT&CK mapping, and focused on improving SOC alerts through behavioral detection beyond signature-based alerts.
 
